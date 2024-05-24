@@ -1,2 +1,2 @@
-# FUMP
+# LUMP
 Lightweight Google UMP
