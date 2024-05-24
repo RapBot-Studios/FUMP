@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="GoogleMobileAds.Ump.Android" ignoreIfMissing="1">
+    <namespace fullname="GoogleMobileAds.Ump.Android" preserve="all" />
+  </assembly>
+  <assembly fullname="GoogleMobileAds.Ump.iOS" ignoreIfMissing="1">
+    <namespace fullname="GoogleMobileAds.Ump.iOS" preserve="all" />
+  </assembly>
+</linker>
