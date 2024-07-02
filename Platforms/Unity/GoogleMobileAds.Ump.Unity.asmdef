@@ -1,8 +1,8 @@
 {
     "name": "GoogleMobileAds.Ump.Unity",
+    "rootNamespace": "",
     "references": [
-        "GoogleMobileAds.Ump.Core",
-        "GoogleMobileAds.Ump.Common"
+        "GUID:f0e4f287899d243089fef74a915f792c"
     ],
     "includePlatforms": [
         "Editor"

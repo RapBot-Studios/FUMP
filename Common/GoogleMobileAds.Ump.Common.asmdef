@@ -1,8 +1,0 @@
-{
-    "name": "GoogleMobileAds.Ump.Common",
-    "references": [
-        "GoogleMobileAds.Ump.Core"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": []
-}

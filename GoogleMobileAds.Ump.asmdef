@@ -1,6 +1,16 @@
 {
     "name": "GoogleMobileAds.Ump",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f6130dd14e744f448b89286a88cc1a7"
+    ],
     "includePlatforms": [],
-    "excludePlatforms": []
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
